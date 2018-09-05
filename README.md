@@ -12,6 +12,7 @@ The problem with interfaces and abstract classes is that it can lead to code dup
 This is where Traits come into play because they are close to a combination between interfaces and abstract classes. They are like interfaces in the sense that a concrete class can use more than one trait, and they are like abstract classes in that they can have (or not) concrete implementation.
 
 Examples:
+command-line> php {filename}
 * trait1_fail.php
 * trait2_success.php
 * trait_interface.php
